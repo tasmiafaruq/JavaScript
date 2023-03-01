@@ -6,4 +6,4 @@ while(counter<3){
     console.log("Hello", counter);
     counter++;
 }
-console.log("FInished");
+console.log("Finished");

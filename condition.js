@@ -5,7 +5,10 @@
         console.log('Activating Heating');
 
  }
- if(temperature>21){
+ else if(temperature>21){
     console.log('De-Activating Heating');
 
+}
+else {
+    console.log("Temperature in normal");
 }
