@@ -1,10 +1,9 @@
 'use strict';
 
-let counter=0;
+;
 
-while(counter<=5){
-    
-    console.log(counter);
-    counter++;
-
+for(let i=0;i<10;i++)
+{
+    console.log("Hello",i,"Tasmia");
+   
 }
